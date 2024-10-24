@@ -4,7 +4,7 @@ const Navbar = () => {
     <nav className="nav-container">
       {/* Logo */}
       <div className="logo">
-        <h2>Simple Ecommerce</h2>
+        <h2>Simple E-commerce</h2>
       </div>
 
       {/* Nav Items */}
@@ -14,10 +14,13 @@ const Navbar = () => {
             <a href="#">Home</a>
           </li>
           <li>
-            <a href="#">About</a>
+            <a href="#">Product</a>
           </li>
           <li>
-            <a href="#">Cart</a>
+            <a href="#">Cart 1</a>
+          </li>
+          <li>
+            <a href="#">$500</a>
           </li>
         </ul>
       </div>
