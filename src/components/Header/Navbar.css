@@ -1,0 +1,24 @@
+.nav-container {
+  background-color: #83bbfc;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-items ul {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.nav-items ul li {
+  list-style: none;
+}
+
+.nav-items ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+}
